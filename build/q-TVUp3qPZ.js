@@ -1,0 +1,1 @@
+import{v as s}from"./q-DVgLWKrl.js";import{_hW as a}from"./q-DVgLWKrl.js";const r=()=>{const[e,o]=s();(o.delay??0)>0?setTimeout(()=>{e.value=!0},o.delay??0):e.value=!0};export{a as _hW,r as s_HUCVnQ0dJ0M};

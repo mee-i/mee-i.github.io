@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "miza-personal-website",
+  "short_name": "Miza's website",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Miza's personal website"
+}

@@ -1,0 +1,1 @@
+import{v as r}from"./q-DVgLWKrl.js";import{_hW as c}from"./q-DVgLWKrl.js";const l=()=>{const[e]=r(),o=()=>{e.value=window.scrollY>0};return window.addEventListener("scroll",o),o(),()=>window.removeEventListener("scroll",o)};export{c as _hW,l as s_IpRnOMA1XtI};
